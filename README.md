@@ -7,7 +7,7 @@ A Machine Learning based web application that predicts the winning probability o
 
 ## Live Demo
 
-[Try the Website now]: https://sk-ipl-win-predict.streamlit.app
+[Try the Website now](https://sk-ipl-win-predict.streamlit.app)
 
 ## 📌 Project Overview
 
