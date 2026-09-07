@@ -5,6 +5,26 @@
 A Machine Learning based web application that predicts the winning probability of IPL teams.
 
 
+## Live Demo
+
+[Try the Website now]: https://sk-ipl-win-predict.streamlit.app
+
+## 📌 Project Overview
+
+The IPL Winner Predictor uses Machine Learning to estimate the probability of the batting team winning an IPL match based on the current match situation.
+
+## 🖥️ Application Features
+
+- Select batting team
+- Select bowling team
+- Select host city
+- Enter target score
+- Enter current score
+- Enter overs completed
+- Enter wickets lost
+- Calculate winning probability
+- Interactive Streamlit interface
+
 
 \## Technologies Used
 
